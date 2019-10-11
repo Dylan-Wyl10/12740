@@ -1,4 +1,1 @@
-# 12740 Smart Aquarim
-# 111
-# 222
-# 333
+# This is the project progess report for AI Group
